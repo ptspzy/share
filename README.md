@@ -4,16 +4,17 @@
 - [https://github.com/qiu-deqing/FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [https://github.com/hawx1993/Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)
 
-## 参考：
+## 理解fe
+全栈工程师培训材料:[https://github.com/ruanyf/jstraining](https://github.com/ruanyf/jstraining)
+
+## 有选择地参考：
 - [MDN](https://developer.mozilla.org/en-US/)  （尽量看英文）
 - [https://github.com/jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
-
+- [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect)
+- [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 ## 编码规范等
 - Some HTML, CSS and JS best practices: [https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 - 参考BAT等团队的开发规范，比如[https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars),[https://github.com/AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide)
-
-## 理解fe
-全栈工程师培训材料:[https://github.com/ruanyf/jstraining](https://github.com/ruanyf/jstraining)
 
 ## Nodejs
 - Nodejs案例:[使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)  [nodejs爬虫可监视12306上面的票](https://github.com/Froguard/wt) 还有hexo，有很多开源的聊天室项目

@@ -18,8 +18,12 @@
 - 参考一下这个微信文章,顺便关注一下这个公众号 [简历投了没反应？给你一些制作简历的技巧](http://mp.weixin.qq.com/s?__biz=MjM5NzQ4ODE1Ng==&mid=504425125&idx=1&sn=d3409a9f0eeb69a85e34792651ffa188&chksm=3d3d79d60a4af0c00b3f43cffd994a1ed5226ddb48d0dea8abe0f071c4a82cbe4526f74f273d&mpshare=1&scene=1&srcid=1228G3f1fkxQEHp7stlmTOzs#rd)
 - 项目和《剑指Offer》：  链接：http://pan.baidu.com/s/1jIdnrzo 密码：7a3f
 
+
 **投递地址**
+
 拉勾网，实习僧，智联也看看
+
 论文：
+
 《Study of openGIS for Earthquake Analysis and Prediction System》 ICNISC-N033
 《三维数字校园综合信息服务平台》 科技创新与应用,2015,25

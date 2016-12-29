@@ -12,9 +12,13 @@
 - [https://github.com/jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
 - [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect)
 - [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 ## 编码规范等
 - Some HTML, CSS and JS best practices: [https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)
 - 参考BAT等团队的开发规范，比如[https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars),[https://github.com/AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide)
+- https://github.com/grvcoelho/css-styleguide
+- [https://google.github.io/styleguide/htmlcssguide.xml#HTML_Style_Rules](https://google.github.io/styleguide/htmlcssguide.xml#HTML_Style_Rules)
+- [https://segmentfault.com/a/1190000007023192#articleHeader30](https://segmentfault.com/a/1190000007023192#articleHeader30)
 
 ## Nodejs
 - Nodejs案例:[使用 Express + MongoDB 搭建多人博客](https://github.com/nswbmw/N-blog)  [nodejs爬虫可监视12306上面的票](https://github.com/Froguard/wt) 还有hexo，有很多开源的聊天室项目

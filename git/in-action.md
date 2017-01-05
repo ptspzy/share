@@ -2,6 +2,8 @@
 ### [Git Branch Model ( a-successful-git-branching-model )](http://nvie.com/posts/a-successful-git-branching-model/)
 ![a-successful-git-branching-model](images/git-model@2x.png)
 
+### 译文：[A successful Git branching model](http://blog.jobbole.com/109466/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+
 ### [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 >Re-establishing the context of a piece of code is wasteful. We can't avoid it completely, so our efforts should go to reducing it [as much] as possible. Commit messages can do exactly that and as a result, a commit message shows whether a developer is a good collaborator.
 

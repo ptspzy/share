@@ -1,23 +1,12 @@
 # [找到适合自己的前端发展方向](http://www.zhangxinxu.com/wordpress/2016/08/find-own-frontend-direction/)
 # [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 ## [前端开发的历史和趋势](https://github.com/ruanyf/jstraining/blob/master/docs/history.md)
-> ## 前端开发模式的根本改变
->  - Node 环境下开发
->  - 大量使用服务器端工具
->  - 引入持续集成等软件工程的标准流程
->  - 开发完成后，编译成浏览器可以运行的脚本，放上 CDN
 
 ### [我终于弄懂了各种前端build工具](https://www.sdk.cn/news/5412)
 
-# 前端面试
-
-- [https://github.com/qiu-deqing/FE-interview](https://github.com/qiu-deqing/FE-interview)
-- [https://github.com/hawx1993/Front-end-Interview-questions](https://github.com/hawx1993/Front-end-Interview-questions)
-
-
-
 # Reference
 - [MDN](https://developer.mozilla.org/en-US/)  （尽量看英文）
+- http://devdocs.io/
 - [https://github.com/jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books)
 - [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect)
 - [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)

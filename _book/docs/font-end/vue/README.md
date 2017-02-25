@@ -1,0 +1,1 @@
+- [vue-router](http://router.vuejs.org/zh-cn/installation.html)
